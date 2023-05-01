@@ -23,7 +23,7 @@ You may use the navigation buttons at the top to locate My works, where to conta
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/ This website helped me learn the code neccesary for the flexbox and provided a good template for my header/navigation.
 
-https://codepen.io/nickhaskell I found a html template for a contact form here! there was a lot of css but I chose not to implement it since it was a bit too advanced.
+https://codepen.io/nickhaskell I found a html template for a contact form here! 
 
 ## License
 

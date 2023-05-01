@@ -9,12 +9,12 @@
   .container{
     width: 100%;
     height: 100vh;
-    
     background-position: center;background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./assets/images/abstract-gfa46b1c09_1920.png);
     background-size: cover;
     padding-left: 8%;
     padding-right: 8%;
     box-sizing: border-box;
+    transform: transition 0.5s;
   }
 
 /*navigation bar*/
