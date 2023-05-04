@@ -8,13 +8,15 @@
 
   .container{
     width: 100%;
-    height: 100vh;
-    background-position: center;background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./assets/images/abstract-gfa46b1c09_1920.png);
+    height: 100%;
+    background-position: center;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./assets/images/abstract-gfa46b1c09_1920.png);
     background-size: cover;
+    background-repeat: no-repeat;
     padding-left: 8%;
     padding-right: 8%;
     box-sizing: border-box;
-    transform: transition 0.5s;
+    margin: 0;
   }
 
 /*navigation bar*/
@@ -106,22 +108,34 @@ button{
 
 .card1{  
     background-image: url(assets/images/stars-g9be943996_1920.jpg);
-
+    width: 20%;
+    max-width: 30%;
 }
 
 .card2{
     background-image: url(assets/images/hd-wallpaper-g79eb77796_1920.jpg);
-
+ width: 20%;
+ max-width: 30%;
 }
 
 .card3{
     background-image: url(assets/images/stars-gebfa24674_1920.jpg);
-}
+    width: 20%;
+    max-width: 30%;
+}   
 
 .card4{
     background-image: url(assets/images/orion-nebula-gb46286de9_1920.jpg);
+    width: 20%;
+    max-width: 30%;
 }
 
 .card:hover{
     transform:translateY(-10px);
+}
+
+h5{
+    color: #fff;
+    text-shadow: 0 0 5px;
+    font-size: 25px;
 }
