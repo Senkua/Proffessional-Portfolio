@@ -24,7 +24,9 @@
   .navbar{
     height: 12%;
     display: flex;
+    padding-top: 5%;
     align-items: center;
+    justify-content: end;
   }
 
   .logo{
@@ -61,6 +63,7 @@
     display: flex;
     height: 88%;
     align-items: center;
+    padding-top: 10%;
   }
 
   .col{
@@ -127,7 +130,7 @@ button{
 .card4{
     background-image: url(assets/images/orion-nebula-gb46286de9_1920.jpg);
     width: 20%;
-    max-width: 30%;
+    max-width: 100%;
 }
 
 .card:hover{
@@ -138,4 +141,38 @@ h5{
     color: #fff;
     text-shadow: 0 0 5px;
     font-size: 25px;
+}
+
+/*Sections and explore options*/
+
+.Github p{
+  font-size: 100%;
+}
+
+.Github {
+  margin: 20%;
+}
+
+.My-Resume p{
+  font-size: 100%;
+}
+
+.My-Resume{
+  margin: 20%;
+}
+
+.Works p{
+  font-size: 100%;
+}
+
+.Works{
+  margin: 20%;
+}
+
+.Contact p{
+  font-size: 100%;
+}
+
+.Contact{
+  margin: 20%;
 }
