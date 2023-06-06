@@ -2,7 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
 
 - My motivation for this Website was to make my first website from scratch, so I could have a place to keep all my works to function as a portfolio.
 - I built this website to put my works on display and to keep track of my projects here. Also for anyone that wants to know about me, this site will serve that purpose.
